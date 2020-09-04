@@ -1,11 +1,18 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "New LogS",
+      "message": "Replace hard drive workstation 002",
       "attention": true,
-      "tech": "Sam Smith",
-      "date": "2020-09-03T03:44:21.199Z"
+      "tech": "John Doe",
+      "date": "2020-09-03T08:15:28.694Z",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "message": "Vga cable replaced",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2020-09-04T13:35:31.350Z"
     }
   ],
   "techs": [
